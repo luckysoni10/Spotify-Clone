@@ -22,6 +22,10 @@ Check out the live demo of the Spotify Clone here:
 
 ---
 
+## Screenshots
+Here’s a glimpse of the project:
+![Spotify-Clone](./Images/Screenshot.png)
+
 ## 📂 Project Structure
 
 ```bash
@@ -39,8 +43,3 @@ FontAwesome (for icons)
 Google Fonts (for typography)
 
 
-📸 Screenshots
-Here’s a glimpse of the project:
-
-![Spotify Clone Screenshot](/Images/Screenshot.png)
-(https://raw.githubusercontent.com/luckysoni10/Spotify-Clone/fcf8674a597dbb1fd6df99bdab5acf8252a2bf43/Images/Screenshot.png)
