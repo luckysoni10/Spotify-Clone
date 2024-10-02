@@ -41,12 +41,5 @@ Google Fonts (for typography)
 
 📸 Screenshots
 Here’s a glimpse of the project:
-![Spotify Clone Screenshot](./Images/Screenshot.png)
 
-
-📧 Contact
-For any questions or suggestions, feel free to reach out:
-
-Name: Lucky Soni
-Email: sonilucky0005@gmail.com
-LinkedIn: www.linkedin.com/in/luckysoni10
+![Spotify Clone Screenshot](/Images/Screenshot.png)
