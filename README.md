@@ -43,3 +43,4 @@ Google Fonts (for typography)
 Here’s a glimpse of the project:
 
 ![Spotify Clone Screenshot](/Images/Screenshot.png)
+(https://raw.githubusercontent.com/luckysoni10/Spotify-Clone/fcf8674a597dbb1fd6df99bdab5acf8252a2bf43/Images/Screenshot.png)
